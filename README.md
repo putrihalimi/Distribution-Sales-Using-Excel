@@ -8,7 +8,7 @@ Berikut dashboard profesional: ([https://drive.google.com/file/d/1HWi8oLEGYxyooU
 
 ### 📌 Project Overview
 
-Dalam proyek ini, saya mengembangkan **Sales & Distribution Performance Dashboard** menggunakan **Google Looker Studio** untuk memonitor performa penjualan, distribusi pengiriman, serta profitabilitas bisnis secara komprehensif.
+Dalam proyek ini, saya mengembangkan **Sales & Distribution Performance Dashboard** menggunakan **Microsoft Excel** untuk memonitor performa penjualan, distribusi pengiriman, serta profitabilitas bisnis secara komprehensif.
 
 Dashboard ini dirancang untuk memberikan insight strategis kepada manajemen terkait:
 
